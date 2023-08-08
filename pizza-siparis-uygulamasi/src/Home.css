@@ -1,0 +1,24 @@
+.h1Baslik {
+   margin-bottom: 30px;
+    font-family: 'Barlow', sans-serif;
+    font-size: 30px;
+    color: #FAF7F2;
+    margin-top: 20px;
+ }
+ .h2Baslik {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Barlow', sans-serif;
+    font-size: 50px;
+    color: #FAF7F2;
+ }
+ #order-pizza {
+    margin-bottom: 250px;
+    font-size: 5px;
+    background-color: #FDC913;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 20px;
+    color: black; 
+    text-decoration: none; 
+}
